@@ -1,3 +1,5 @@
+# Code mostly found on CircuitDigest.com
+
 import RPi.GPIO as gpio
 import picamera
 import time
